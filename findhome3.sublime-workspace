@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"propi",
+				"propietario"
+			],
+			[
+				"Num",
+				"NumCtrl1"
+			],
+			[
+				"Nu",
+				"NumCtrl1"
+			],
+			[
+				"text",
+				"m_staticText46"
+			],
+			[
+				"propet",
+				"propietario"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"cot",
+				"contrasena"
+			],
+			[
+				"con",
+				"contrasena"
+			],
+			[
+				"image",
+				"imagen"
+			],
+			[
+				"im",
+				"IMG3"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"impr",
+				"imprinq"
+			],
+			[
+				"imprm",
+				"imprinmo"
+			],
+			[
+				"imprim",
+				"imprimei"
+			],
+			[
+				"impri",
+				"impripro"
+			],
+			[
+				"n",
+				"numero"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"elim",
+				"eliminar"
+			],
+			[
+				"en",
+				"Enable"
+			],
+			[
+				"se",
+				"SetValue"
+			],
+			[
+				"m_date",
+				"m_datePicker2"
+			],
+			[
+				"imp",
+				"Imprime"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"Inqui",
+				"Inquilino"
+			],
+			[
+				"des",
+				"descripcion"
+			],
+			[
+				"m_datePicke",
+				"m_datePicker3"
+			],
+			[
+				"com",
+				"m_comboBox1"
+			],
+			[
+				"m_t",
+				"m_textCtrl1"
+			],
+			[
+				"descue",
+				"descuento"
+			],
+			[
+				"desc",
+				"descuento1"
+			],
+			[
+				"m_b",
+				"m_button1"
+			],
+			[
+				"m",
+				"m_button5"
+			],
+			[
+				"m_",
+				"m_button6"
+			],
+			[
+				"descu",
+				"descuento"
+			],
+			[
+				"muzzarella",
+				"muzzarella"
+			],
+			[
+				"Propi",
+				"Propietario"
+			],
+			[
+				"Prop",
+				"Propietario"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"propiet",
+				"propietario2"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"a+b",
+			"b=2",
+			"a=2",
+			"2+2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/report.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/style/config.ini",
+		"/C/Users/Javier/Desktop/sistema/findhome2/splash.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/principal.py",
+		"/E/style/config1.ini",
+		"/E/splash.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/modulos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/concontrato.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/principal.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/Contratos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/propietario.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/Propietario.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/Coneccion.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/acontrato.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/login.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/grecibos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/Casas.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/grecibos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/generado.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/report.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/casas.py",
+		"/C/Users/Javier/Downloads/JavaScript-MD5-2.10.0/JavaScript-MD5-2.10.0/index.html",
+		"/C/Users/Javier/Desktop/cambiarpass.php",
+		"/C/Users/Javier/Desktop/verificar.js",
+		"/C/Users/Javier/Desktop/petpass.php",
+		"/C/Users/Javier/Downloads/JavaScript-MD5-2.10.0/JavaScript-MD5-2.10.0/js/demo/demo.js",
+		"/C/Users/Javier/Desktop/profesor.php",
+		"/C/Users/Javier/Desktop/checklogin.php",
+		"/C/Users/Javier/Desktop/alumno.php",
+		"/C/Users/Javier/Desktop/index.php",
+		"/C/Users/Javier/Desktop/P.CargarApuntes.php",
+		"/C/Users/Javier/Desktop/sistema/findhome2/contratos.py",
+		"/C/Users/Javier/Desktop/funciones.js",
+		"/C/Users/Javier/Desktop/estilo.css",
+		"/C/Users/Javier/Desktop/index (1).html",
+		"/C/Users/Javier/Desktop/desarrollo/index.html",
+		"/C/Users/Javier/Desktop/Cvirtual.html",
+		"/C/Users/Javier/Desktop/galeria.html",
+		"/C/Users/Javier/Desktop/index.html",
+		"/C/Users/Javier/Desktop/instituto.html",
+		"/C/Users/Javier/Desktop/mantenindust.html",
+		"/C/Users/Javier/Desktop/proyecto.html",
+		"/C/Users/Javier/Desktop/software.html",
+		"/C/Users/Javier/Desktop/contacto.html",
+		"/C/Users/Javier/Desktop/send_form_email.php",
+		"/C/Users/Javier/Desktop/pruebamail.html",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/Descuentos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/ejemplo.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/inquilinos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/descuentos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/concontrato.py",
+		"/C/Users/Javier/Desktop/verificarentrada.js",
+		"/C/Users/Javier/Desktop/prueba.html",
+		"/C/Users/Javier/Desktop/mi curriculum -vitae/index.html",
+		"/C/Users/Javier/Desktop/mi curriculum -vitae/CSS/estilo.css",
+		"/E/Pagina2/estilo.css",
+		"/C/Users/Javier/Desktop/javi/PAGINA TARJETA/index.html",
+		"/C/Users/Javier/Desktop/prueba.css",
+		"/C/Users/Javier/Desktop/prueba1.html",
+		"/C/Users/Javier/Desktop/javi/api/index.html",
+		"/C/Users/Javier/Desktop/comp.js",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/lib/Inquilinos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/casas.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/acontrato",
+		"/C/Users/Javier/Desktop/sistema/findhome2/actualizarcontratos.py",
+		"/C/Users/Javier/Desktop/java.html",
+		"/C/Users/Javier/Desktop/p_consultartp.php",
+		"/C/Users/Javier/Desktop/p_asistencia.php",
+		"/C/Users/Javier/Desktop/P.CargaAsistencia.php",
+		"/C/Users/Javier/Desktop/P_CargaNF.php",
+		"/C/Users/Javier/Desktop/administrador.php",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/findhome3.sublime-workspace",
+		"/C/Users/Javier/Desktop/clasegrafico.php",
+		"/F/ISBH/ISBH PAGINA/desarrollo100817/Prueba2/clasegrafico.php",
+		"/C/Users/Javier/Desktop/prueba.php",
+		"/F/ISBH/ISBH PAGINA/desarrollo070817/profesor/pet/subir.php",
+		"/F/ISBH/ISBH PAGINA/desarrollo070817/profesor/cargatp1.php",
+		"/F/ISBH/ISBH PAGINA/desarrollo070817/profesor/pet/notasp1.php",
+		"/F/ISBH/ISBH PAGINA/desarrollo070817/profesor/parcial1.php",
+		"/C/Users/Javier/Desktop/global.css",
+		"/E/Juegos/UR a Kill Machine/main.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/findhome3.sublime-project",
+		"/C/Users/Javier/Desktop/sistema/index.html",
+		"/C/Users/Javier/Desktop/logout.php",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/ingreso.py",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/gui/noname.py",
+		"/C/Users/Javier/Desktop/p_vernotas.php",
+		"/F/ISBH/PROGRAMAS ISBH/carga massiva/Alumnos.py",
+		"/C/Users/Javier/Desktop/clavemd5.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/Coneccion.py",
+		"/C/Users/Javier/Desktop/cript.php",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/gui/__init__",
+		"/C/Users/Javier/Desktop/sistema/findhome 3/findhome 3/gui/propietario.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/findhome/gui/propietario.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/findhome/lib/Propietario.py",
+		"/C/Users/Javier/Desktop/default-ssl.conf",
+		"/C/Users/Javier/Desktop/nada.js",
+		"/E/findhome3/findhome/lib/Propietario.py",
+		"/E/findhome3/findhome/gui/principal.py",
+		"/E/findhome3/findhome/lib/Casas.py",
+		"/E/findhome3/findhome/lib/Descuentos.py",
+		"/E/findhome3/findhome/lib/Inquilinos.py",
+		"/E/findhome3/findhome/lib/Contratos.py",
+		"/C/Users/Javier/Downloads/Collabtive-3.0.2/Collabtive/config/standard/config.php",
+		"/C/Users/Javier/Desktop/indice/alumnos/script/general.js",
+		"/C/Users/Javier/Desktop/indice/alumnos/css/global.css",
+		"/C/Users/Javier/Desktop/indice/alumnos/index.php",
+		"/C/Users/Javier/Desktop/contruccion/Construccion.css",
+		"/C/Users/Javier/Desktop/contruccion/index.html",
+		"/E/contruccion/Construccion.css",
+		"/E/contruccion/index.html",
+		"/C/Users/Javier/Desktop/indice/index.html",
+		"/C/Users/Javier/Desktop/a.css",
+		"/C/Users/Javier/Desktop/api/css/stylep.css",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/Propietario.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/Inquilinos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/Casas.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/Descuentos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/Contratos.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/pruebas.py",
+		"/C/Users/Javier/Desktop/sistema/findhome3/lib/Coneccion.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/propietarios.py",
+		"/C/Users/Javier/Desktop/sistema/findhome2/modulos.py",
+		"/C/Users/Javier/Desktop/bk.bat",
+		"/C/Users/Javier/Desktop/python.py",
+		"/C/Users/Javier/Desktop/alu/index.html",
+		"/C/Users/Javier/Desktop/api/profiles/encargadoplanta/script/jquery-3.2.1.min.js",
+		"/C/Users/Javier/Desktop/api/agroapi.cpf"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.657393850659,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "findhome3.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
