@@ -18,7 +18,7 @@ class Coneccion:
                 	
 
         def actualizar(self,query,cur,valores):
-                cur.execute(query,(valores,))
+                cur.execute(query,(valores))
         def eliminar(self,query,cur,valores):
                 cur.execute(query,(valores,))
 
