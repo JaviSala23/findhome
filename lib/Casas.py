@@ -63,8 +63,8 @@ class Casa:
 	def desalquilar(self,con1):
 		cone=con1.conectar()
 		cur=cone.cursor()
-		query="UPDATE casas SET estado='LIBRE', contrato=%s WHERE contrato=%s"
-		valores=self.contrato,self.contrato
+		query="UPDATE casas SET estado='LIBRE', contrato=%s WHERE direccion=%s"
+		valores=0,self.direccion
 		con1.actualizar(query,cur,valores)
 		cone.commit()
 		cone.close()
